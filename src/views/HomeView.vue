@@ -53,6 +53,7 @@
         <el-header>
           <!-- 用户信息 -->
           <div class="demo-type">
+            <!-- 用户头像 -->
             <div>
               <el-avatar
                 src="https://www.creativebio.cn/Statics/klm/img/preloader.gif"
